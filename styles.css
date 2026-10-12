@@ -75,7 +75,7 @@ footer {
     margin-top: auto;
 }
 
-#footer-links {
+#footer-ul {
     font-size: 0.9rem;
 }
 
@@ -88,19 +88,23 @@ a {
     color: white;
 }
 
-h1 {
+#links-advice {
+    font-weight: 600;
+}
+
+#title {
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
 
     font-family: var(--bungee);
-    font-size: 1.9rem;
+    font-size:2rem;
     color: white;
 }
 
 h2 {
     font-family: var(--lexend-deca);
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 main {
@@ -141,7 +145,7 @@ main {
 }
 
 #summary>h2 {
-    font-size: 3rem;
+    font-size: 1.99rem;
 }
 
 
