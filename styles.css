@@ -163,11 +163,6 @@ li {
     margin: 3px 0;
 }
 
-.highlighted-item {
-    font-weight: 600;
-    background-color: var(--aquamarine-400);
-}
-
 @media screen and (max-width: 860px) {
     #main-top {
         flex-direction: column;
